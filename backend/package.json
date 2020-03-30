@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MatheusCPimentel/BeTheHero-BackEnd.git"
+    "url": "git+https://github.com/Helionunes/be-the-hero.git.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MatheusCPimentel/BeTheHero-BackEnd/issues"
+    "url": "https://github.com/Helionunes/be-the-hero.git/issues"
   },
-  "homepage": "https://github.com/MatheusCPimentel/BeTheHero-BackEnd#readme",
+  "homepage": "https://github.com/Helionunes/be-the-hero.git#readme",
   "dependencies": {
     "celebrate": "^12.0.1",
     "cors": "^2.8.5",
